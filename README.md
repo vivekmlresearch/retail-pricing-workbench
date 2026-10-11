@@ -1,8 +1,8 @@
-# Meridian — Retail Pricing & Causal Workbench
+# Retail Pricing & Causal Workbench
 
 An interactive, static decision-support demo for retail pricing, promotion measurement, and rollout planning. It is designed for principal data scientists, pricing and merchandising teams, finance partners, experiment owners, and rollout operators.
 
-> **Demo boundary:** All figures and records are synthetic. This demo has no retailer data connection, backend, authentication, or production model. Scenario outputs are illustrative forecasts, not causal impact. The rollout screen contains example experimental results.
+> **Demo:** All figures and records are synthetic. This demo has no retailer data connection, backend, authentication, or production model. Scenario outputs are illustrative forecasts, not causal impact. The rollout screen contains example experimental results.
 
 ## What you can explore
 
